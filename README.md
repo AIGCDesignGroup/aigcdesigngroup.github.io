@@ -1,4 +1,4 @@
-# Project Website for AIGC Design Team
+# Projects of AIGC Design Team
 
 ReplaceAnything
 [Website](https://aigcdesigngroup.github.io/replace-anything) [ModelScope](https://modelscope.cn/studios/iic/ReplaceAnything)
